@@ -1,0 +1,28 @@
+name: Ash+Elm
+favicon: null
+layout_spectrum: 0.17264315695501864
+typography_spectrum: 0.7530273690354079
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.005249853245913982
+  lightness: 0.12537668948061764
+  saturation: 0.8182441552635282
+  rhythmicContrast: 0.6852259156294167
+purpose: []
